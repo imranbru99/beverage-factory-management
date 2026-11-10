@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "beverage-factory-management",
+  "description": "Beverage Factory Management — Food Processing Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Beverage factory system for batching, bottling lines, CIP logs, and route sales. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "food-processing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/beverage-factory-management"
+}
